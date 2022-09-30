@@ -1,0 +1,14 @@
+#parent{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-right: 200px;
+}
+#parent>#menu1{
+    font-size: 30px;
+    color: rgb(76, 109, 20);
+    text-align: end;
+    margin-top: 300px;
+    margin-left: 30px;
+}
